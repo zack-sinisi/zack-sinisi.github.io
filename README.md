@@ -11,7 +11,7 @@ In addition to coding gameplay, I wrote shaders and created VFX effects to creat
 ![image](https://user-images.githubusercontent.com/104055906/164170349-f7d30536-5778-4667-9575-de88f2b87929.png)
 
 
-### 3d Simulations Development Consultant. August 2020 - Present
+### 3D Simulations Development Consultant. August 2020 - Present
 I work for a variety of companies to develop advanced 3D simulations. One example of a simulation that I designed and programmed was a medical simulation in which the client could perform a double bypass heart surgery. I researched how the surgery is done and created an accurate representation of it for the Oculus Quest. In my research, I watched videos of the surgery and consulted with doctors to learn more about the specifics of the surgery. Another example of a simulation that I helped develop was for an indie game in which a large number of complex enemies are present. The project had to be capable of running on very low-end hardware at a high frame rate, so I was brought in to optimize the simulation. I was able to increase the performance of the simulation by an order of magnitude by utilizing Unity's Job system and burst compiled code in a data-driven architecture.
 
 ![image](https://user-images.githubusercontent.com/104055906/164169867-1e0b32b7-b4e6-4aac-98da-f466f56d7e91.png)
