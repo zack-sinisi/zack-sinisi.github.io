@@ -3,9 +3,10 @@
 ![image](https://user-images.githubusercontent.com/104055906/164170419-55963c97-68f1-4a7c-9d99-e7bfe6e84b17.png)
 
 ### Senior Game Developer at Black Zenith Entertainment. Working on Cyberpunk Samurai VR. January 2021 - Present
-https://store.steampowered.com/app/1727900/Cyberpunk_Samurai_VR/  
+[Steam Page](https://store.steampowered.com/app/1727900/Cyberpunk_Samurai_VR/)  
 Cyberpunk Samurai VR is the first fully physics-driven, realtime VR PVP swordfighting game. It utilizes advanced techniques such as rollback, lag compensation, data compression, and client-side prediciton to provide a highly competitive and seamless swordfighting experience at a 120hz tick rate. I primarily worked on programming networked gameplay, ensuring that all gameplay is well synchronized even at a very high ping. I also theorized and programmed a system that allows intense and realistic sword clashes while mitigating the potential exploits inherent to multiplayer VR swordfightin. 
-In addition to coding gameplay, I wrote shaders and created VFX effects to create elements such as plasma-sabers with heat distortion and procedural slash trails, and sparks that react to the direction and force of the hit. I also designed and developed a post-processing stack to tie together environments into a unified cyberpunk theme. 
+In addition to coding gameplay, I wrote shaders and created VFX effects to create elements such as plasma-sabers with heat distortion and procedural slash trails, and sparks that react to the direction and force of the hit. I also designed and developed a post-processing stack to tie together environments into a unified cyberpunk theme.  
+
 
 ![image](https://user-images.githubusercontent.com/104055906/164170349-f7d30536-5778-4667-9575-de88f2b87929.png)
 
